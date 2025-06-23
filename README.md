@@ -27,14 +27,6 @@ The CNN model includes:
 All images were resized to `224x224` before training. The model was trained using CrossEntropyLoss and Adam optimizer in PyTorch.
 
 
-## 📥 Download the Trained Model
-
-Due to GitHub's 25 MB file limit, the trained `.pth` model is hosted on Google Drive.
-
-🔗 **Download model (`sheep_cnn.pth`)**  
-[Click to Download from Google Drive](https://drive.google.com/file/d/1spn-6Yppb9WnqzAaX2WsXakCtS6Oh-a9/view)
-
-> After downloading, place the file in the root directory of this project or in a `/models` folder if specified in your code.
 
 
 
