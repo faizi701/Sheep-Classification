@@ -26,7 +26,9 @@ The CNN model includes:
 
 All images were resized to `224x224` before training. The model was trained using CrossEntropyLoss and Adam optimizer in PyTorch.
 
-
+#Model Dowload
+You can download the model from the code,bu running last cell.
+The reason of not uploading the model is due to restriction of memory.
 
 
 
